@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/Shoes Websit/Shoes Websit/image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Shoes-web-site"
+	}
+}
